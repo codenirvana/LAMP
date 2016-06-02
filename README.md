@@ -69,7 +69,7 @@ sudo vim apache2.conf
 ...
 ```
 
-* Enable mods
+* Enable mods as per need
 ```
 sudo a2enmod rewrite
 sudo a2enmod deflate
