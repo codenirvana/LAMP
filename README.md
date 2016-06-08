@@ -163,4 +163,4 @@ Require valid-user
 sudo apt-get install apache2-utils
 sudo htpasswd -c /etc/phpmyadmin/.htpasswd USERNAME
 ```
-> You will be prompted to select and confirm a password for the user you are creating. Afterwards, the file is created with the hashed password that you entered.
+> You will be prompted to select and confirm a password for the user you are creating.
