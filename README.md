@@ -1,5 +1,7 @@
 # LAMP
 
+> Using Ubuntu Server 
+
 ## First things first
 
 * Update Server
