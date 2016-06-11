@@ -1,6 +1,6 @@
 # LAMP
 
-> Using Ubuntu Server 
+> Using Ubuntu 14.04 Server 
 
 ## First things first
 
