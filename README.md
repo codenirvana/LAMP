@@ -1,6 +1,6 @@
 # LAMP
 
-> Using Ubuntu 14.04 Server 
+> Tested on Ubuntu 14.04 Server 
 
 ## First things first
 
