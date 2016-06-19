@@ -44,7 +44,7 @@ sudo cp 000-default.conf MY_WEBSITE.conf
 * Edit and enable site
 ```
 sudo vim MY_WEBSITE.conf 
-a2ensite MY_WEBSITE.conf
+sudo a2ensite MY_WEBSITE.conf
 ```
 > MY_WEBSITE.conf
 ```
