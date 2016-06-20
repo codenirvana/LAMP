@@ -167,3 +167,13 @@ sudo apt-get install apache2-utils
 sudo htpasswd -c /etc/phpmyadmin/.htpasswd USERNAME
 ```
 > You will be prompted to select and confirm a password for the user you are creating.
+
+---
+
+## Extras
+
+* Installing [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+```
+sudo apt-get install zsh
+sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+```
